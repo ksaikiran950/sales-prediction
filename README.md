@@ -39,7 +39,7 @@ sales-prediction/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/sales-prediction.git
+git clone https://github.com/ksaikiran950/sales-prediction.git
 cd sales-prediction
 ```
 
